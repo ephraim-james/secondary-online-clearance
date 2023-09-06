@@ -1,0 +1,40 @@
+.profile-title{
+
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: green;
+}
+
+.auth-left-title{
+    color: rgb(219, 155, 16);
+    font-size: 23px;
+    text-align: center;
+    font-weight:700;
+    padding-top: 10px;
+}
+
+.login-button {
+    background-color: #a4d6e1;
+    border: 1px solid #a4d6e1;
+}
+
+.auth-left-contact{
+    text-align: center;
+    color: rgb(209, 214, 218);
+}
+
+.auth-left-contact .contact {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* [class*=sidebar-dark] .nav-item {
+    border-bottom: 1px solid #9fa0a2;
+} */
+
+.nav-item p {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
